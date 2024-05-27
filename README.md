@@ -73,7 +73,7 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/Q5Q3YLV0I' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Buy me a Coffee', '#e02832', 'Q5Q3YLV0I');kofiwidget2.draw();</script> 
 </div>
 <br/>
 
