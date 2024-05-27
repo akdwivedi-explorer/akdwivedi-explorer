@@ -77,6 +77,8 @@
 </div>
 <br/>
 
-
+<div align="center">
+<h2>Thanks for Visiting ⚡</h2>
+</div>
 
 
