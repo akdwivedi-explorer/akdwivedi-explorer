@@ -14,9 +14,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a RazorPay-UI-Clone**
+ 🔭 I’m currently working on **a College website**
  
- 🌱 I’m currently learning **React.JS, Node.JS, AWS**
+ 🌱 I’m currently learning ** Node.JS, AWS**
 
 💬 Ask me about **HTML5, CSS3, JavaScript... or anything [here](https://github.com/akdwivedi-explorer/akdwivedi-explorer/issues)**
 
