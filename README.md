@@ -16,11 +16,11 @@
  
  🔭 I’m currently working on **a College website**
  
- 🌱 I’m currently learning ** Node.JS, AWS**
+ 🌱 I’m currently learning **Node.JS, AWS**
 
 💬 Ask me about **HTML5, CSS3, JavaScript... or anything [here](https://github.com/akdwivedi-explorer/akdwivedi-explorer/issues)**
 
-⚡ Fun fact ** People call me Night Owl and Keyboard Wizard. **
+⚡ Fun fact **People call me Night Owl and Keyboard Wizard.**
 
  </div>
 
@@ -39,7 +39,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,figma,tailwind,git,react,next" />
     <img src="https://skillicons.dev/icons?i=python,javascript,c,mysql,cpp" /><br>
 </div>
 
