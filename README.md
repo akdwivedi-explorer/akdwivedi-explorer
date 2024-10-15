@@ -46,15 +46,14 @@
 <br/>
 <hr/>
 
+<h2 align="center">🐍 My GitHub Contributions 🐍</h2>
+<br>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://github.com/akdwivedi-explorer/akdwivedi-explorer/blob/output/github-contribution-grid-snake.gif" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/akdwivedi-explorer/akdwivedi-explorer/output/github-contribution-grid-snake.gif" />
 </div>
 
 <hr/>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
