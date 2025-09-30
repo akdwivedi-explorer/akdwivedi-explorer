@@ -1,5 +1,5 @@
 # 💫 About Me:
-✈️ I'm currently working on Full stack web development<br>👯 I'm looking to collaborate on System Design, Open Source Projects<br>🤝 I'm looking for help with Scaling web applications<br>🌱 I'm currently learning System Design, FASTAPIs<br>💬 Ask me about DSA, Backend Development, and Problem Solving<br>⚡ Fun fact: I can debug faster with music playing.
+👯 I'm looking to collaborate on **System Design, Backend Development, Open Source Projects**<br>🤝 I'm looking for help with Scaling web applications<br>🌱 I'm currently learning System Design<br>💬 Ask me about **DSA, Backend Development, and Problem Solving***<br>⚡ Fun fact: I can debug faster with music playing.
 
 
 ## 🌐 Socials:
