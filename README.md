@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm looking to collaborate on **System Design, Backend Development, Open Source Projects**<br>💬 Ask me about **DSA, Backend Development, and Problem Solving***<br>⚡ Fun fact: I can debug faster with music playing.<br>
+I'm looking to collaborate on **System Design, Backend Development, Open Source Projects**<br>💬 Ask me about **DSA, Backend Development, and Problem Solving**<br>⚡ Fun fact: I can debug faster with music playing.<br>
 
 
 ## 🌐 Socials:
