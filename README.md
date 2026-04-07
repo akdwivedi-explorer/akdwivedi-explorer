@@ -1,22 +1,66 @@
-# 💫 About Me:
-I'm looking to collaborate on **System Design, Backend Development, Open Source Projects**<br>💬 Ask me about **DSA, Backend Development, and Problem Solving**<br>⚡ Fun fact: I can debug faster with music playing.<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Ashutosh%20Dwivedi&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
+</p>
 
+  <p align="center">
+    <a href="mailto:ashutosh.dwivedi604@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ashutosh.dwivedi604%40gmail.com-blue?style=for-the-badge&logo=gmail"></a>
+    <a href="https://linkedin.com/in/ashutosh-dwivedi-451b96256"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ashutosh%20Dwivedi-blue?style=for-the-badge&logo=linkedin"></a>
+    <a href="https://portfolio-frontend-eosin-one.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=safari"></a>
+    <a href="https://leetcode.com/u/akdwivediofficial/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-1694%20(Max)-F89F1B?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+    <a href="https://www.codechef.com/users/akdwivedi_01"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-1644%20(Max)-5B4638?style=for-the-badge&logo=codechef&logoColor=white"></a>
+  </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashutosh-dwivedi-451b96256) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@akumardwivedi77) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AshuCode) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30683137) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutosh.dwivedi604@gmail.com) 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=akdwivedi-explorer&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=flat&logo=datadog&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat&logo=nodemon&logoColor=%BBDEAD) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=flat&logo=SONARLINT&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=flat&logo=sonarqube&logoColor=4E9BCD)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=akdwivedi-explorer&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=akdwivedi-explorer&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akdwivedi-explorer&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+```yaml
+name: Ashutosh Dwivedi
+located_in: Indore, India
+role: Software Engineer (Backend) Intern
+current_company: PharmEasy
+education: 
+  - ["B.Tech in Electronics & Telecommunication", "IET DAVV, Indore", "2022-2026", "CGPA: 8.67"]
+competitive_programming:
+  - ["LeetCode", "Max Rating: 1694", "440+ problems"]
+  - ["CodeChef", "Max Rating: 1644", "400+ problems"]
+past_experiences:
+  - ["Software Engineer Intern", "Spring Boot / Kafka", "PharmEasy", "Bengaluru", "Dec 2025 - Present"]
+  - ["Associate Software Engineer Intern", "Python / Automation", "Accenture", "Navi Mumbai", "May 2025 - July 2025"]
+technical_background: 
+  - ["System Design", "Microservices Architecture", "RESTful APIs", "OOP", "DSA"]
+fields_of_interests: 
+  - ["Backend Architecture", "Distributed Systems", "Cloud Infrastructure"]
+```
 
----
-[![](https://visitcount.itsvg.in/api?id=akdwivedi-explorer&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠️ Tech Stack
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akdwivediofficial) 
+**Languages:** <br>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> <img alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Frameworks & Libraries:** <br>
+<img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img alt="Spring" src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"> <img alt="GoChi" src="https://img.shields.io/badge/Chi-00ADD8?style=for-the-badge&logo=go&logoColor=white"> <img alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
+**Databases:** <br>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"> <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"> <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white">
+
+**Tools & Platforms:** <br>
+<img alt="Kafka" src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"> <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"> <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"> <img alt="Datadog" src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white"> <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white">
+
+### 📈 GitHub Analytics
+
+<p align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=akdwivedi-explorer&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="stats" width="48%" /> -->
+  <img src="https://streak-stats.demolab.com/?user=akdwivedi-explorer&theme=radical&hide_border=true" alt="streak" width="48%" />
+</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akdwivedi-explorer&layout=compact&theme=radical&hide_border=true&langs_count=10&custom_title=Top%20Languages%20and%20Analytics" alt="top-langs" width="80%" />
+</p> -->
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
+
